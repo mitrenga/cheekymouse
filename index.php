@@ -13,7 +13,6 @@
     'Please enable JavaScript to start the game.</p>'.
     '<p><a href="about">More about Cheeky Mouse and this remake</a></p>';
   $appOpenGraph = [
-    'image' => 'images/poster.png',
   ];
   $appJsonLd = [
     'genre' => 'Action game',
