@@ -1,0 +1,4 @@
+{
+   "skeleton": true,
+   "note": "M2: screen.json z tools/mkscreen.py, sprites.json z tools/mksprites.py nad trasovacím emulátorem ROM"
+}
