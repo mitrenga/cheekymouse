@@ -1,0 +1,6 @@
+<?php
+
+  $dbHostname = 'localhost';
+  $dbName = 'cheekymouse';
+  $dbUser = 'your-user-name';
+  $dbPassword = 'your-password';

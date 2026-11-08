@@ -1,0 +1,17 @@
+*.html
+config/config.php
+js
+test*
+tmp*
+# ROM sets are not in git (sources/rom/README.md stays); the rest of sources/ is tracked
+sources/rom/cheekyms/
+sources/rom/*.zip
+# graphics dumped from the ROM
+assets/raw/
+__pycache__/
+sources/
+CLAUDE.md
+.claude/
+MILNIKY.md
+ZADANI.md
+*.log
