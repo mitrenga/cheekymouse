@@ -1,0 +1,5 @@
+{
+  "//": "Only marks app/*.js as ES modules for Node, so the tools can import app/screenRender.js directly (pixel identity between the tools and the browser). The browser and svtool ignore this file; svtool copies only *.js into js/.",
+  "type": "module",
+  "private": true
+}
